@@ -14,3 +14,17 @@
     box-shadow: none;
 }
 
+.ui.fluid.image{
+    padding: 0px 0px 0px 0px;
+
+}
+
+.bottombg{
+    background-color: #292929;
+    color: white;
+}
+
+.ui.three.column.grid.container{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
